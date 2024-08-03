@@ -9,7 +9,7 @@
     display: flex;
     gap: 8px;
 }
-input {
+input[type="text"] {
     width: 240px;
     height: 24px;
     border-radius: 4px;
